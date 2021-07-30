@@ -1,0 +1,16 @@
+{
+  "name": "desafiomirepertorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consultas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1"
+  }
+}
